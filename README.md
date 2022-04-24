@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Automation QA Engineer https://www.linkedin.com/in/zaytsevms-3016781b2/
+
 <!--
 **0zyr0/0zyr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
